@@ -2,9 +2,11 @@
 ## An easy python script to send a file from the command line.
 
 
-### Usage:usage: sendit.py [-h] [-b BUFFER_SIZE] filepath host_ip port
+### Usage:
 
 ```
+usage: sendit.py [-h] [-b BUFFER_SIZE] filepath host_ip port
+
 positional arguments:
   filepath              Path of file to send.
   host_ip               Host IP address
